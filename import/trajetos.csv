@@ -1,0 +1,40 @@
+Cidade Origem,Cidade Destino,Distância
+Franca,São José do Rio Preto,235
+Franca,Ribeirão Preto,90
+São José do Rio Preto,Piracicaba,304
+São José do Rio Preto,Bauru,198
+São José do Rio Preto,Ribeirão Preto,186
+São José do Rio Preto,Campinas,348
+São José dos Campos,Itaquaquecetuba,68.8
+São José dos Campos,Mogi das Cruzes,66.8
+São José dos Campos,Guarulhos,74.9
+Santos,São Bernardo do Campo,51.4
+Sorocaba,Piracicaba,99.7
+Sorocaba,Carapicuíba,78.7
+Sorocaba,Campinas,88.9
+Sorocaba,Bauru,242
+Carapicuíba,Osasco,5.4
+Osasco,Jundiaí,51.1
+Osasco,São Paulo,22
+Piracicaba,Bauru,193
+Piracicaba,Campinas,70.1
+Piracicaba,Ribeirão Preto,200
+Mogi das Cruzes,Guarulhos,47.7
+Mogi das Cruzes,Itaquaquecetuba,16.7
+Mogi das Cruzes,Mauá,35.5
+Itaquaquecetuba,Mauá,39.6
+Itaquaquecetuba,Guarulhos,27.3
+Bauru,Ribeirão Preto,215
+Guarulhos,Mauá,36.3
+Guarulhos,São Paulo,20.8
+Ribeirão Preto,Campinas,223
+Campinas,Jundiaí,56.6
+Mauá,Santo André,8.7
+Mauá,São Paulo,27
+Mauá,São Bernardo do Campo,13.4
+Santo André,São Bernardo do Campo,9.1
+Santo André,São Paulo,26.1
+São Bernardo do Campo,São Paulo,21.8
+São Bernardo do Campo,Diadema,11.1
+Diadema,São Paulo,18
+São Paulo,Jundiaí,56.2
